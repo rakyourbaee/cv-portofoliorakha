@@ -5,7 +5,7 @@
 window.PORTFOLIO_DATA = {
   config: {
     // Isi dengan URL endpoint layanan form (misalnya Formspree). Kosongkan jika belum ada.
-    formEndpoint: "",
+    formEndpoint: "https://formspree.io/f/xrpejbgr",
     // Path foto profil. Kosongkan untuk memakai inisial.
     photo: "assets/foto.png",
     // Path file CV PDF yang dipakai tombol "Unduh CV".
