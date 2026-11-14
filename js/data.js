@@ -11,7 +11,7 @@ window.PORTFOLIO_DATA = {
     // Path file CV PDF yang dipakai tombol "Unduh CV".
     cvFile: "assets/cv.pdf",
     // Endpoint PHP katalog, relatif terhadap index.html.
-    apiUrl: "api/produk.php",
+    apiUrl: "https://cvrakhaa.infinityfreeapp.com/api/produk.php",
     // Ongkir tetap untuk checkout (Rupiah). Atur sesuai kebutuhan.
     shippingCost: 10000
   },
